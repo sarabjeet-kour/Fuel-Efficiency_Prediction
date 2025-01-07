@@ -1,1 +1,1 @@
-# Fuel-Efficiency_Prediction
+This project aims to develop a machine learning model that predicts fuel consumption of vehicles based on various features, such as the vehicle's mass, engine capacity, fuel type, emissions, energy consumption, and other relevant characteristics. The goal is to help vehicle manufacturers, researchers, and environmentalists optimize designs for better performance, reduce emissions, and improve fuel efficiency.
